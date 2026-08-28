@@ -1,0 +1,38 @@
+[
+  {
+    "variant": "LogisticRegression (class_weight=balanced)",
+    "accuracy": 0.75,
+    "precision": 0.5581,
+    "recall": 0.8,
+    "f1": 0.6575,
+    "roc_auc": 0.8058,
+    "is_best": true
+  },
+  {
+    "variant": "LogisticRegression + SMOTE",
+    "accuracy": 0.745,
+    "precision": 0.5529,
+    "recall": 0.7833,
+    "f1": 0.6483,
+    "roc_auc": 0.7967,
+    "is_best": false
+  },
+  {
+    "variant": "RandomForest (class_weight=balanced)",
+    "accuracy": 0.745,
+    "precision": 0.5714,
+    "recall": 0.6,
+    "f1": 0.5854,
+    "roc_auc": 0.7983,
+    "is_best": false
+  },
+  {
+    "variant": "RandomForest + SMOTE",
+    "accuracy": 0.755,
+    "precision": 0.6341,
+    "recall": 0.4333,
+    "f1": 0.5149,
+    "roc_auc": 0.7877,
+    "is_best": false
+  }
+]
