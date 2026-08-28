@@ -2,7 +2,7 @@
 
 Predicting loan-default risk from applicant data using Logistic Regression and Random Forest, with a live Streamlit app for interactive predictions.
 
-**🔗 Live Demo:** _[will be added after deployment]_
+**🔗 Live Demo:** [credit-risk-modelling.streamlit.app](https://credit-risk-modelling-pde4btnusaxmiiip6c7eou.streamlit.app/)
 
 ---
 
